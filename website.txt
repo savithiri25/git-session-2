@@ -5,3 +5,5 @@ Home | About Us | Services
 Contact Us:
 Email: contact@example.com
 Phone: 123-456-7890
+
+Added more info and working on updates
